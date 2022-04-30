@@ -1,0 +1,34 @@
+import java.util.ArrayList;
+
+public class PasswordUnitTest {
+	
+
+	public static void main(String[] args) {
+		addPassword("joemama");
+		addPassword("joemama");
+		addPassword("apple");
+		addPassword("pear");
+
+	}
+
+	public static boolean addPassword(String password) {
+		ArrayList<String> passwordStorage = new ArrayList<String>();
+
+		
+		if (containsPassword(passwordStorage,password)) {
+			passwordStorage.add(password);
+			System.out.println(passwordStorage);
+		}
+		return false;
+
+	}
+	
+	public static boolean containsPassword(ArrayList<String> passwordStorage,String password){
+		if (!passwordStorage.contains(password)) {
+			passwordStorage.add(password);
+			return true;
+		}
+		return false;
+	}
+
+}

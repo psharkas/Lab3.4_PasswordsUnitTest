@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PasswordsUnitTesting" project="PasswordsUnitTest" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="PasswordsUnitTesting" time="0.024" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]">
+    <testcase name="addPasswordTest1" classname="PasswordsUnitTesting" time="0.018" displayname="addPasswordTest1()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest1()]"/>
+    <testcase name="addPasswordTest2" classname="PasswordsUnitTesting" time="0.002" displayname="addPasswordTest2()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest2()]"/>
+    <testcase name="addPasswordTest3" classname="PasswordsUnitTesting" time="0.001" displayname="addPasswordTest3()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest3()]"/>
+    <testcase name="addPasswordTest4" classname="PasswordsUnitTesting" time="0.002" displayname="addPasswordTest4()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest4()]"/>
+  </testsuite>
+</testrun>

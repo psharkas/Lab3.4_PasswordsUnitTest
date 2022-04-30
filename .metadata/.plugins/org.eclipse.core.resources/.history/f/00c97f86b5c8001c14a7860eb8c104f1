@@ -1,0 +1,20 @@
+import java.util.ArrayList;
+
+public class PasswordUnitTest {
+	static ArrayList<String> passwordStorage= new ArrayList<String>();
+
+	public static boolean addPassword(String password) {
+		if (!passwordStorage.contains(password)) {
+			passwordStorage.add(password);
+			return true;
+		}
+		
+		return false;
+	}
+	
+//	public static ArrayList<String> passwordStorage(String acceptedPassword){
+//		
+//		return null;
+//	}
+
+}

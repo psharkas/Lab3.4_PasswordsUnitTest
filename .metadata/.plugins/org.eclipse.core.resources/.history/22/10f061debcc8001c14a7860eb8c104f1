@@ -1,0 +1,27 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.ArrayList;
+
+import org.junit.jupiter.api.Test;
+
+class PasswordsUnitTesting {
+	
+	@Test
+	void addPasswordTest1() {
+		// checks to see if adding password changes the arraylist
+		int expected = 1;
+		PasswordUnitTest.addPassword("APPLE");
+		int actual = PasswordUnitTest.passwordStorage.size();
+		assertEquals(expected,actual);
+	}
+	
+	@Test
+	void addPasswordTest2() {
+		// checks to see if adding a password results in true
+		boolean expected = false;
+		boolean actual =  PasswordUnitTest.addPassword("APPLE");
+
+		assertEquals(expected,actual);
+	}
+
+}

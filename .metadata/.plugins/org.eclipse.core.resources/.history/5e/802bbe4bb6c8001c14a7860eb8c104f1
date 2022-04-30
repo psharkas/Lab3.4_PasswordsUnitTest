@@ -1,0 +1,27 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.ArrayList;
+
+import org.junit.jupiter.api.Test;
+
+class PasswordsUnitTesting {
+	
+	@Test
+	void addPasswordTest1() {
+		ArrayList<String> passwordStorage= new ArrayList<String>();
+		int expected = 1;
+		PasswordUnitTest.addPassword(passwordStorage,"APPLE");
+		int actual = passwordStorage.size();
+		assertEquals(expected,actual);
+	}
+	
+//	@Test
+//	void addPasswordTest2() {
+//		ArrayList<String> passwordStorage= new ArrayList<String>();
+//		int expected = 1;
+//		PasswordUnitTest.addPassword(passwordStorage,"APPLE");
+//		int actual = passwordStorage.size();
+//		assertEquals(expected,actual);
+//	}
+
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PasswordsUnitTesting" project="PasswordsUnitTest" tests="13" started="13" failures="0" errors="0" ignored="0">
+  <testsuite name="PasswordsUnitTesting" time="0.037" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]">
+    <testcase name="addPasswordTest1" classname="PasswordsUnitTesting" time="0.018" displayname="addPasswordTest1()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest1()]"/>
+    <testcase name="addPasswordTest2" classname="PasswordsUnitTesting" time="0.003" displayname="addPasswordTest2()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest2()]"/>
+    <testcase name="addPasswordTest3" classname="PasswordsUnitTesting" time="0.001" displayname="addPasswordTest3()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest3()]"/>
+    <testcase name="addPasswordTest4" classname="PasswordsUnitTesting" time="0.0" displayname="addPasswordTest4()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest4()]"/>
+    <testcase name="addPasswordTest5" classname="PasswordsUnitTesting" time="0.001" displayname="addPasswordTest5()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest5()]"/>
+    <testcase name="addPasswordTest6" classname="PasswordsUnitTesting" time="0.0" displayname="addPasswordTest6()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest6()]"/>
+    <testcase name="addPasswordTest7" classname="PasswordsUnitTesting" time="0.001" displayname="addPasswordTest7()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest7()]"/>
+    <testcase name="addPasswordTest8" classname="PasswordsUnitTesting" time="0.001" displayname="addPasswordTest8()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest8()]"/>
+    <testcase name="addPasswordTest9" classname="PasswordsUnitTesting" time="0.0" displayname="addPasswordTest9()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest9()]"/>
+    <testcase name="addPasswordTest10" classname="PasswordsUnitTesting" time="0.001" displayname="addPasswordTest10()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest10()]"/>
+    <testcase name="addPasswordTest11" classname="PasswordsUnitTesting" time="0.001" displayname="addPasswordTest11()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest11()]"/>
+    <testcase name="addPasswordTest12" classname="PasswordsUnitTesting" time="0.0" displayname="addPasswordTest12()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest12()]"/>
+    <testcase name="addPasswordTest13" classname="PasswordsUnitTesting" time="0.001" displayname="addPasswordTest13()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest13()]"/>
+  </testsuite>
+</testrun>

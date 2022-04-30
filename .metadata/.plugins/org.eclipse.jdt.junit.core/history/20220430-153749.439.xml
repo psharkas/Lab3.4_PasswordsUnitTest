@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PasswordsUnitTesting" project="PasswordsUnitTest" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="PasswordsUnitTesting" time="0.022" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]">
+    <testcase name="addPasswordTest1" classname="PasswordsUnitTesting" time="0.019" displayname="addPasswordTest1()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest1()]"/>
+    <testcase name="addPasswordTest2" classname="PasswordsUnitTesting" time="0.002" displayname="addPasswordTest2()" uniqueid="[engine:junit-jupiter]/[class:PasswordsUnitTesting]/[method:addPasswordTest2()]"/>
+  </testsuite>
+</testrun>
